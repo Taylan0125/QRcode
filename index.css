@@ -1,0 +1,38 @@
+.qrcode {
+    height: 441px;
+    width: 286px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: grey;
+}
+
+p {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+p.improve {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p.scan {
+    font-size: 13px;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.attribution {
+    text-align: center;
+    margin-top: 20px;
+}
